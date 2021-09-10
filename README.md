@@ -1,7 +1,6 @@
 # realtime-comment-system
 In this tutorial we have built a realtime comment system.
 
-#### Demo: https://myyoutubedata.vercel.app/
 
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
