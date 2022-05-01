@@ -1,5 +1,5 @@
 const dbConnect = () => {
-    // Db connection
+// Db connection
 const mongoose = require('mongoose')
 const url = 'mongodb://localhost/comments'
 
